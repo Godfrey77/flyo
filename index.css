@@ -1,0 +1,100 @@
+body {
+    background-color: rgb(14, 37, 80);
+    font-size: 12px;
+}
+.bg {
+    background-color: none;
+    height: 200px;
+    width: 100%;
+    position: absolute;
+    top: 40%;
+}
+.container {
+    height: 180px;
+    width: 320px;
+    background-color: rgb(22, 52, 107);
+    position: absolute;  
+    top: 150px;
+    left: calc(30% - 50px);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 90px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    align-content: center;
+}
+.container2 {
+    height: 110px;
+    width: 320px;
+    background-color: rgb(22, 52, 107);
+    position: absolute;  
+    top: 220px;
+    left: calc(55% - 50px);
+    color: white;
+}
+.container3 {
+    height: 40px;
+    width: 100px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;  
+    top: 185px;
+    left: calc(70% - 50px);
+    color: rgb(0, 0, 0);
+    text-align-last: center;
+    border-radius: 40px;
+}
+
+.container4 {
+    height: 40px;
+    width: 80px;
+    background-color: rgb(22, 52, 107);
+    position: absolute;  
+    top: 285px;
+    left: calc(56% - 50px);
+    color: rgb(255, 255, 255);
+    text-align-last: center;
+    border-radius: 40px;
+}
+
+.container5 {
+    height: 40px;
+    width: 100px;
+    background-color: rgb(22, 52, 107);
+    position: absolute;  
+    top: 285px;
+    left: calc(70% - 50px);
+    color: rgb(255, 255, 255);
+    text-align-last: center;
+    border-radius: 40px;
+}
+
+.container6 {
+    height: 40px;
+    width: 190px;
+    background-color: rgb(22, 52, 107);
+    position: absolute;  
+    top: 230px;
+    left: calc(57% - 50px);
+    color: rgb(255, 255, 255);
+    text-align-last: center;
+    border-radius: 40px;
+}
+
+.container7 {
+    height: 20px;
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;  
+    top: 265px;
+    left: calc(57% - 50px);
+    border-radius: 40px;
+}
+
+.container8 {
+    height: 20px;
+    width: 190px;
+    background-color: rgb(255, 51, 0);
+    position: absolute;  
+    top: 265px;
+    left: calc(57% - 50px);
+    border-radius: 40px;
+}
